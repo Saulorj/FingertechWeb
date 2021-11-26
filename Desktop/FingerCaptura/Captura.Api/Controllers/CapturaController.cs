@@ -5,6 +5,7 @@ using System.Net;
 using System.Net.Http;
 using System.Web.Http;
 using NITGEN.SDK.NBioBSP;
+using Captura.Api.DB;
 
 namespace Captura.Api.Controllers
 {
@@ -48,6 +49,22 @@ namespace Captura.Api.Controllers
 
                 throw new Exception("ERRO:... " + ex.Message);
             }
+        }
+
+
+        [HttpGet]
+        [Route("Test/")]
+        public string Test()
+        {
+            //IndexSearch.ISDB
+            string arquivo = @"C:\Users\saccacio\OneDrive - Lojas Americanas\Repos\FingertechWeb\Desktop\NSearch.FDB";
+            NBioAPI m_NBioAPI = new NBioAPI();
+            FingerDB fingerDB = new FingerDB(m_NBioAPI);
+            string associado = "-1";
+            if (fingerDB.LoadDB(arquivo) == true)
+                associado = fingerDB.IdentificarAssociado();
+            fingerDB.CloseDb();
+            return associado;
         }
 
 

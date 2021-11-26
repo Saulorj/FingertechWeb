@@ -1,11 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2013
-VisualStudioVersion = 12.0.40629.0
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31912.275
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Captura.Api", "Captura.Api\Captura.Api.csproj", "{478AF6FE-13E9-4E5F-A6B6-286C6F9B4CFC}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Captura.Local", "Captura.Local\Captura.Local.csproj", "{F16E7A1B-D6B4-4E15-9BB4-5E63967695CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NSearchDemoCS", "..\NSearchDemoCS\NSearchDemoCS.csproj", "{2F028359-CD07-4B61-9567-4CF0FF0CC1BD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,8 +23,15 @@ Global
 		{F16E7A1B-D6B4-4E15-9BB4-5E63967695CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F16E7A1B-D6B4-4E15-9BB4-5E63967695CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F16E7A1B-D6B4-4E15-9BB4-5E63967695CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F028359-CD07-4B61-9567-4CF0FF0CC1BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F028359-CD07-4B61-9567-4CF0FF0CC1BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F028359-CD07-4B61-9567-4CF0FF0CC1BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F028359-CD07-4B61-9567-4CF0FF0CC1BD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CBC8B818-B4FB-47FB-ABFA-6424AED2BABD}
 	EndGlobalSection
 EndGlobal

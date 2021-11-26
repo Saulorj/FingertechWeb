@@ -69,3 +69,47 @@ D:\FingerDSV\FingerCaptura\Captura.Local\obj\Debug\Captura.Local.Properties.Reso
 D:\FingerDSV\FingerCaptura\Captura.Local\obj\Debug\Captura.Local.csproj.GenerateResource.Cache
 D:\FingerDSV\FingerCaptura\Captura.Local\obj\Debug\Captura.Local.exe
 D:\FingerDSV\FingerCaptura\Captura.Local\obj\Debug\Captura.Local.pdb
+C:\Users\saccacio\OneDrive - Lojas Americanas\Repos\FingertechWeb\Desktop\FingerCaptura\Captura.Local\obj\Debug\Captura.Local.csproj.AssemblyReference.cache
+C:\Users\saccacio\OneDrive - Lojas Americanas\Repos\FingertechWeb\Desktop\FingerCaptura\Captura.Local\obj\Debug\Captura.Local.csproj.SuggestedBindingRedirects.cache
+C:\Users\saccacio\OneDrive - Lojas Americanas\Repos\FingertechWeb\Desktop\FingerCaptura\Captura.Local\obj\Debug\Fingertech Web.exe.config
+C:\Users\saccacio\OneDrive - Lojas Americanas\Repos\FingertechWeb\Desktop\FingerCaptura\Captura.Local\bin\Debug\Fingertech Web.exe.config
+C:\Users\saccacio\OneDrive - Lojas Americanas\Repos\FingertechWeb\Desktop\FingerCaptura\Captura.Local\bin\Debug\Fingertech Web.exe.manifest
+C:\Users\saccacio\OneDrive - Lojas Americanas\Repos\FingertechWeb\Desktop\FingerCaptura\Captura.Local\bin\Debug\Fingertech Web.application
+C:\Users\saccacio\OneDrive - Lojas Americanas\Repos\FingertechWeb\Desktop\FingerCaptura\Captura.Local\bin\Debug\Fingertech Web.exe
+C:\Users\saccacio\OneDrive - Lojas Americanas\Repos\FingertechWeb\Desktop\FingerCaptura\Captura.Local\bin\Debug\Fingertech Web.pdb
+C:\Users\saccacio\OneDrive - Lojas Americanas\Repos\FingertechWeb\Desktop\FingerCaptura\Captura.Local\bin\Debug\Captura.Api.dll
+C:\Users\saccacio\OneDrive - Lojas Americanas\Repos\FingertechWeb\Desktop\FingerCaptura\Captura.Local\bin\Debug\Microsoft.Owin.Diagnostics.dll
+C:\Users\saccacio\OneDrive - Lojas Americanas\Repos\FingertechWeb\Desktop\FingerCaptura\Captura.Local\bin\Debug\Microsoft.Owin.dll
+C:\Users\saccacio\OneDrive - Lojas Americanas\Repos\FingertechWeb\Desktop\FingerCaptura\Captura.Local\bin\Debug\Microsoft.Owin.Host.HttpListener.dll
+C:\Users\saccacio\OneDrive - Lojas Americanas\Repos\FingertechWeb\Desktop\FingerCaptura\Captura.Local\bin\Debug\Microsoft.Owin.Hosting.dll
+C:\Users\saccacio\OneDrive - Lojas Americanas\Repos\FingertechWeb\Desktop\FingerCaptura\Captura.Local\bin\Debug\Owin.dll
+C:\Users\saccacio\OneDrive - Lojas Americanas\Repos\FingertechWeb\Desktop\FingerCaptura\Captura.Local\bin\Debug\System.Web.Http.dll
+C:\Users\saccacio\OneDrive - Lojas Americanas\Repos\FingertechWeb\Desktop\FingerCaptura\Captura.Local\bin\Debug\NITGEN.SDK.NBioBSP.dll
+C:\Users\saccacio\OneDrive - Lojas Americanas\Repos\FingertechWeb\Desktop\FingerCaptura\Captura.Local\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\saccacio\OneDrive - Lojas Americanas\Repos\FingertechWeb\Desktop\FingerCaptura\Captura.Local\bin\Debug\Microsoft.Owin.Cors.dll
+C:\Users\saccacio\OneDrive - Lojas Americanas\Repos\FingertechWeb\Desktop\FingerCaptura\Captura.Local\bin\Debug\System.Web.Http.Owin.dll
+C:\Users\saccacio\OneDrive - Lojas Americanas\Repos\FingertechWeb\Desktop\FingerCaptura\Captura.Local\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\saccacio\OneDrive - Lojas Americanas\Repos\FingertechWeb\Desktop\FingerCaptura\Captura.Local\bin\Debug\Newtonsoft.Json.dll
+C:\Users\saccacio\OneDrive - Lojas Americanas\Repos\FingertechWeb\Desktop\FingerCaptura\Captura.Local\bin\Debug\System.Web.Cors.dll
+C:\Users\saccacio\OneDrive - Lojas Americanas\Repos\FingertechWeb\Desktop\FingerCaptura\Captura.Local\bin\Debug\Captura.Api.pdb
+C:\Users\saccacio\OneDrive - Lojas Americanas\Repos\FingertechWeb\Desktop\FingerCaptura\Captura.Local\bin\Debug\Captura.Api.dll.config
+C:\Users\saccacio\OneDrive - Lojas Americanas\Repos\FingertechWeb\Desktop\FingerCaptura\Captura.Local\bin\Debug\Microsoft.Owin.xml
+C:\Users\saccacio\OneDrive - Lojas Americanas\Repos\FingertechWeb\Desktop\FingerCaptura\Captura.Local\bin\Debug\Microsoft.Owin.Diagnostics.xml
+C:\Users\saccacio\OneDrive - Lojas Americanas\Repos\FingertechWeb\Desktop\FingerCaptura\Captura.Local\bin\Debug\Microsoft.Owin.Host.HttpListener.xml
+C:\Users\saccacio\OneDrive - Lojas Americanas\Repos\FingertechWeb\Desktop\FingerCaptura\Captura.Local\bin\Debug\Microsoft.Owin.Hosting.xml
+C:\Users\saccacio\OneDrive - Lojas Americanas\Repos\FingertechWeb\Desktop\FingerCaptura\Captura.Local\bin\Debug\System.Web.Http.xml
+C:\Users\saccacio\OneDrive - Lojas Americanas\Repos\FingertechWeb\Desktop\FingerCaptura\Captura.Local\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\saccacio\OneDrive - Lojas Americanas\Repos\FingertechWeb\Desktop\FingerCaptura\Captura.Local\bin\Debug\Microsoft.Owin.Cors.xml
+C:\Users\saccacio\OneDrive - Lojas Americanas\Repos\FingertechWeb\Desktop\FingerCaptura\Captura.Local\bin\Debug\System.Web.Http.Owin.xml
+C:\Users\saccacio\OneDrive - Lojas Americanas\Repos\FingertechWeb\Desktop\FingerCaptura\Captura.Local\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\saccacio\OneDrive - Lojas Americanas\Repos\FingertechWeb\Desktop\FingerCaptura\Captura.Local\bin\Debug\Newtonsoft.Json.xml
+C:\Users\saccacio\OneDrive - Lojas Americanas\Repos\FingertechWeb\Desktop\FingerCaptura\Captura.Local\obj\Debug\Captura.Local.Form1.resources
+C:\Users\saccacio\OneDrive - Lojas Americanas\Repos\FingertechWeb\Desktop\FingerCaptura\Captura.Local\obj\Debug\Captura.Local.Properties.Resources.resources
+C:\Users\saccacio\OneDrive - Lojas Americanas\Repos\FingertechWeb\Desktop\FingerCaptura\Captura.Local\obj\Debug\Captura.Local.csproj.GenerateResource.cache
+C:\Users\saccacio\OneDrive - Lojas Americanas\Repos\FingertechWeb\Desktop\FingerCaptura\Captura.Local\obj\Debug\Captura.Local.csproj.CoreCompileInputs.cache
+C:\Users\saccacio\OneDrive - Lojas Americanas\Repos\FingertechWeb\Desktop\FingerCaptura\Captura.Local\obj\Debug\Fingertech Web.TrustInfo.xml
+C:\Users\saccacio\OneDrive - Lojas Americanas\Repos\FingertechWeb\Desktop\FingerCaptura\Captura.Local\obj\Debug\Fingertech Web.exe.manifest
+C:\Users\saccacio\OneDrive - Lojas Americanas\Repos\FingertechWeb\Desktop\FingerCaptura\Captura.Local\obj\Debug\Fingertech Web.application
+C:\Users\saccacio\OneDrive - Lojas Americanas\Repos\FingertechWeb\Desktop\FingerCaptura\Captura.Local\obj\Debug\Captura.Local.csproj.CopyComplete
+C:\Users\saccacio\OneDrive - Lojas Americanas\Repos\FingertechWeb\Desktop\FingerCaptura\Captura.Local\obj\Debug\Fingertech Web.exe
+C:\Users\saccacio\OneDrive - Lojas Americanas\Repos\FingertechWeb\Desktop\FingerCaptura\Captura.Local\obj\Debug\Fingertech Web.pdb
